@@ -36,3 +36,11 @@ Part of the exercise is noticing that searchable material is not automatically v
 ## Exercise principle
 
 **Scale access. Don’t silently scale the claim.**
+
+## License
+
+Copyright © 2026 GraspingAI. All rights reserved.
+
+These materials may be downloaded and used in authorized deliveries of the course and for participants’ personal learning. Redistribution, adaptation, commercial use, and incorporation into other training materials require prior written permission from GraspingAI.
+
+See [LICENSE.md](LICENSE.md) for the complete terms.
