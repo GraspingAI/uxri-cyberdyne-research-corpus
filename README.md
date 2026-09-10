@@ -18,8 +18,8 @@ Then:
 1. Unzip the downloaded folder.
 2. Open the `research-corpus` folder.
 3. Upload the eight numbered Markdown files, `01` through `08`, to the AI system you are using.
-4. Do not upload the ZIP file itself.
-5. Keep the files unchanged for the first test.
+4. Do not upload the ZIP file or `START-HERE.md`.
+5. Keep the numbered files unchanged for the first test.
 
 Use the starter instructions and questions in the worksheet provided for your module.
 
