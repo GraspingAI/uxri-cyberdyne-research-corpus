@@ -1,12 +1,17 @@
-# UXRI Module 5: When AI Reuses Research
+# Cyberdyne Research Corpus
 
-This repository contains the synthetic Cyberdyne research corpus used in the **Pressure-Test the Research Assistant** exercise.
+This repository contains the fictional Cyberdyne research corpus used in **Beyond Prompting: Building AI Infrastructure for UX Research**.
+
+The same corpus is used in Modules 5 and 6 for different purposes:
+
+- **Module 5:** pressure-test whether an AI system can reuse research without extending the evidence.
+- **Module 6:** compare a thinly prompted synthetic user with a research-grounded one, then identify what grounding improves and what it still cannot establish.
 
 All names, products, studies, participants, findings, and organizational materials in this repository are fictional. Do not add or upload company research.
 
 ## Download the corpus
 
-[Download the repository as a ZIP](https://github.com/GraspingAI/uxri-module5/archive/refs/heads/main.zip).
+[Download the repository as a ZIP](https://github.com/GraspingAI/uxri-cyberdyne-research-corpus/archive/refs/heads/main.zip).
 
 Then:
 
@@ -14,10 +19,25 @@ Then:
 2. Open the `research-corpus` folder.
 3. Upload the eight numbered Markdown files, `01` through `08`, to the AI system you are using.
 4. Do not upload the ZIP file itself.
-5. Do not upload `START-HERE.md`.
-6. Paste the starter instruction from the exercise worksheet provided in class.
+5. Keep the files unchanged for the first test.
 
-Keep the files as they are for the first test. You will have a chance to change one part of the system later.
+Use the starter instructions and questions in the worksheet provided for your module.
+
+## Module 5
+
+Upload files `01` through `08`, paste the Module 5 starter instruction, and test whether the system stays within what the research supports.
+
+**Principle:** Scale access. Don’t silently scale the claim.
+
+## Module 6
+
+Keep the thin and grounded versions in separate new chats using the same model.
+
+- For the **thin version**, do not upload the corpus.
+- For the **grounded version**, upload files `01` through `08` and use the Module 6 grounding instruction.
+- Ask both versions the same questions so the grounding is the meaningful variable.
+
+Better grounding can make the output more specific, constrained, and traceable. It cannot make the research larger than it is.
 
 ## What is in the corpus
 
@@ -31,11 +51,7 @@ The files deliberately have different roles and levels of authority:
 - a product decision memo
 - a research status index
 
-Part of the exercise is noticing that searchable material is not automatically valid evidence for every question.
-
-## Exercise principle
-
-**Scale access. Don’t silently scale the claim.**
+Part of both exercises is noticing that available material is not automatically valid evidence for every question or use.
 
 ## License
 
