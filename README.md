@@ -35,7 +35,7 @@ Keep the thin and grounded versions in separate new chats using the same model.
 
 - For the **thin version**, do not upload the corpus.
 - For the **grounded version**, upload files `01` through `08` and use the Module 6 grounding instruction.
-- Ask both versions the same questions so the grounding is the meaningful variable.
+- Ask both versions the same questions so you can inspect what the research-grounded setup changes.
 
 Better grounding can make the output more specific, constrained, and traceable. It cannot make the research larger than it is.
 
